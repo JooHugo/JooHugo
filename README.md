@@ -50,24 +50,18 @@
 <!-- Certificações -->
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
- <div style="display: flex; justify-content: space-around;">
-  <a href="https://www.credly.com/badges/5aa4934a-114c-4664-ab37-d3038eee275c/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/0bb69633-9161-4384-a712-3a8f1f72eb85/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/7042c2fd-755d-406a-b001-f1057f4bc2f8/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/8c108787-7db9-4787-ae28-ca4842df5867/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/281abd0f-985a-48b2-8992-e37910eed1be/public_url">
-    <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png"/>
-  </a>
- </div>
+### 🐍 Conquistas em Python
+
+<div align="center">
+  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/control_flow_and_lists_48.png" alt="Fluxo de controle e listas"/>
+  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" alt="Tipos de dados, variáveis e E/S"/>
+  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" alt="Introdução a Python e..."/>
 </div>
+
+- **Fluxo de controle e listas** – Emitido em: 4 de setembro de 2024  
+- **Tipos de dados, variáveis e E/S** – Emitido em: 4 de setembro de 2024  
+- **Introdução a Python e...** – Emitido em: 21 de agosto de 2024
+
 
 <!-- Rodapé com onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
