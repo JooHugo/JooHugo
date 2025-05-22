@@ -52,9 +52,9 @@
  <h2> Certificações 🏆 </h2>
 ### 🐍 Conquistas em Python
 
-<div align="center">
-  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/control_flow_and_lists_48.png" alt="Fluxo de controle e listas"/><br>
-  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" alt="Tipos de dados, variáveis e E/S"/><br>
+<div align="center" gap="50px">
+  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/control_flow_and_lists_48.png" alt="Fluxo de controle e listas"/>
+  <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/data_types,_variables,_and_basic_i/O_47.png" alt="Tipos de dados, variáveis e E/S"/>
   <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_python_and_programming_46.png" alt="Introdução a Python e..."/>
 </div>
 
